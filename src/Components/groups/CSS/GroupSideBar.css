@@ -1,0 +1,17 @@
+#sidebar {
+    max-width: 250px;
+    width: 250px;
+    position: fixed;
+    top: 56px;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #ffffff;
+    transition: all 0.3s;
+}
+
+#navList{
+    text-align: center;
+    width:100%;
+}
+

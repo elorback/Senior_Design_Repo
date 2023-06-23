@@ -1,0 +1,10 @@
+  body{
+    min-height: 100vh;
+    
+    background-color: #212529;
+}
+
+.wrapper{
+  color: white;
+  padding-top: 56px;
+}

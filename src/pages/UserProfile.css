@@ -1,0 +1,15 @@
+.btn-view{
+    position : absolute;
+    right   : 0;
+    top: 6px;
+    
+    margin-right: 9px;
+    /* margin-bottom: 100px; */
+
+    /* top: 11; */
+}
+
+.group-Item{
+    
+    padding: 12px;
+}
